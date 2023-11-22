@@ -1,0 +1,9 @@
+7
+Language,DataFile,TypicalType
+Rust,rust.txt,Compiled
+FORTH,forth.txt,Compiled
+Prolog,prolog.txt,Compiled
+Swift, swift.txt,Compiled
+Go,go.txt,Compiled
+SQL,sql.txt,Scripting
+Scala,scala.txt,Compiled
